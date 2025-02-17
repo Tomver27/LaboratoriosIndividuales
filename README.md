@@ -10,5 +10,3 @@ Al seleccionar una categoría se muestra la lista de razas de esa categoría. Po
 ![img4](img/img4.jpg)
 
 ![img5](img/img5.jpg)
-
-![img6](img/img6.jpg)
